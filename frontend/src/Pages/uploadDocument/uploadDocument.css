@@ -1,0 +1,26 @@
+.uploads {
+  width: 30%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.uploadForm {
+  padding: 20px;
+  box-sizing: border-box;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.uploadForm > input {
+  margin-bottom: 15px;
+  width: 100%;
+}
+
+.uploadBtn {
+  border: none;
+  color: white;
+  background-color: teal;
+  padding: 10px 0;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 17px;
+}

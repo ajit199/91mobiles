@@ -1,0 +1,12 @@
+/* .viewBtn {
+  cursor: pointer;
+  background-color: lightgreen;
+  color: white;
+} */
+
+.deleteBtn,
+.viewBtn {
+  text-decoration: underline;
+  color: blue;
+  cursor: pointer;
+}
